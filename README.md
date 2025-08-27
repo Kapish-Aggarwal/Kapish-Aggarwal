@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there 👋, I'm Kapish Aggarwal  
 
-<!--
-**Kapish-Aggarwal/Kapish-Aggarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 A Computer Science student passionate about software development and problem solving.  
+💻 Skilled in multiple programming languages and experienced with modern tools and frameworks.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack  
+
+**Languages:**  
+- Java  
+- Python  
+- JavaScript  
+- C  
+- C++  
+
+**Frameworks & Tools:**  
+- React  
+- Node.js  
+- Git & GitHub  
+
+---
+
+### 🚀 About Me  
+- 🌱 Currently exploring full-stack development and advanced CS concepts  
+- 💡 Love building projects that solve real-world problems  
+- 📚 Always eager to learn new technologies and improve my skills  
+
+---
+
+### 📫 Connect with Me  
+- GitHub: [Kapish Aggarwal](https://github.com/your-username)  
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin)  
+
+---
+⭐️ From [Kapish Aggarwal](https://github.com/your-username)
