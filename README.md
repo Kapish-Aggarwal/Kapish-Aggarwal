@@ -30,7 +30,7 @@
 
 ### 📫 Connect with Me  
 - GitHub: [Kapish Aggarwal](https://github.com/your-username)  
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin)  
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kapish-aggarwal/)  
 
 ---
 ⭐️ From [Kapish Aggarwal](https://github.com/your-username)
