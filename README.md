@@ -29,8 +29,8 @@
 ---
 
 ### 📫 Connect with Me  
-- GitHub: [Kapish Aggarwal](https://github.com/your-username)  
+- GitHub: [Kapish Aggarwal](https://github.com/Kapish-Aggarwal)  
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kapish-aggarwal/)  
 
 ---
-⭐️ From [Kapish Aggarwal](https://github.com/your-username)
+⭐️ From [Kapish Aggarwal](https://github.com/Kapish-Aggarwal)
